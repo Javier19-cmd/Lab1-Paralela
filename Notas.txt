@@ -1,0 +1,23 @@
+/**
+ * @file Lab1.cpp
+ * @author Javier Valle, Mario de León
+ * @brief 
+ * @version 0.1
+ * @date 2023-08-15
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
+ /**
+  * 1. En el doc se debe incluir las funciones
+  * principales del codigo, la parte que tiene el calculo
+  * importante. No se debe incluir encabezados ni operaciones 
+  * de interaccion con el usuario.
+  * 2. Bloque de codigo modificado.
+  * 3. Ss de la salida (solo 1)
+  * 4. Mediciones de tiempo (min, usar N o tamano adecuado)
+  * 5. Metricas de desempeno.
+  * 
+  */
+
